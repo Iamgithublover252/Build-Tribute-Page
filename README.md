@@ -3,7 +3,7 @@ I am Ahmed Nur I am Students who study frontend programming language. I am very 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamgithublover252&theme=dark&show_icons=true)
 
-_challeg links are here_
+_challengs links are here_
 
 1:https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting
 2:https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery
